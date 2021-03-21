@@ -1,5 +1,12 @@
 body
 {
     font-family: Arial;
-	background-color: #ADD8E6;
+	background-color: #333336;
+	color: white;
+	line-height: 140%
+}
+
+a
+{
+	color: grey;
 }
